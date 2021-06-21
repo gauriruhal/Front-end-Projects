@@ -11,4 +11,8 @@ This repository contains some fun HTML, CSS JavaScript Projects. HTML, CSS and J
 
 5. [To Do List](https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/tree/main/To%20Do%20List)
 
+6. [Hangman](https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/tree/main/Hangman)
+
+7. [Custom PDF Viewer](https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/tree/main/Custom%20PDF%20Viewer)
+
 * *I hope you like these fun web development projects for beginners!*

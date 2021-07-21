@@ -15,4 +15,8 @@ This repository contains some fun HTML, CSS JavaScript Projects. HTML, CSS and J
 
 7. [Custom PDF Viewer](https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/tree/main/Custom%20PDF%20Viewer)
 
+8. [Movie App](https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/tree/main/Movie%20App)
+
+9. [Github Profiles](https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/tree/main/github-profiles)
+
 * *I hope you like these fun web development projects for beginners!*

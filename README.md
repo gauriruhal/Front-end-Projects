@@ -19,4 +19,7 @@ This repository contains some fun HTML, CSS JavaScript Projects. HTML, CSS and J
 
 9. [Github Profiles](https://github.com/gauriruhal/Projects-Using-HTML-CSS-JavaScript/tree/main/github-profiles)
 
+10. [Infinite Scrolling](https://github.com/gauriruhal/Front-end-Projects/tree/main/Infinite_Scrolling)
+
+
 * *I hope you like these fun web development projects for beginners!*

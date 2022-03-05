@@ -23,7 +23,7 @@ This repository contains some fun HTML, CSS JavaScript Projects. HTML, CSS and J
 
 11. [Split-landing-page](https://github.com/gauriruhal/Front-end-Projects/tree/main/split-landing-page)
 
-12.[Drink Water](https://github.com/gauriruhal/Front-end-Projects/tree/main/Drink%20Water)
+12. [Drink Water](https://github.com/gauriruhal/Front-end-Projects/tree/main/Drink%20Water)
 
 
 * *I hope you like these fun web development projects for beginners!*

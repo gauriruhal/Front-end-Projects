@@ -25,5 +25,8 @@ This repository contains some fun HTML, CSS JavaScript Projects. HTML, CSS and J
 
 12. [Drink Water](https://github.com/gauriruhal/Front-end-Projects/tree/main/Drink%20Water)
 
+13. [Emoji-Flicker](https://github.com/gauriruhal/Front-end-Projects/tree/main/Emoji-Flicker)
+
+14. [Movie- seat-booking-2](https://github.com/gauriruhal/Front-end-Projects/tree/main/Movie-%20seat-booking-2)
 
 * *I hope you like these fun web development projects for beginners!*
